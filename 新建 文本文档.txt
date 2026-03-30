@@ -1,0 +1,5 @@
+# 在backend根目录下执行
+mvn spring-boot:run
+
+# frontend根目录下启动服务器
+npm run dev
